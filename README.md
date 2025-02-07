@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game developement**
 
-- 💬 Ask me about **Anythhing tec related**
+- 💬 Ask me about **Anythhing tech related**
 
 - 📫 How to reach me **cbobeda@gaming.tech**
 
